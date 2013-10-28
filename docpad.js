@@ -7,28 +7,28 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
-      description: "Conference description",
-      date: "November 15",
+      name: "DevFest São Paulo",
+      description: "",
+      date: "23 de Novembro de 2013",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      price: "R$ 70,00",
+      venue: "Hotel Branston, São Paulo - SP",
+      address: "Rua Augusta 1272",
+      city: "São Paulo",
+      state: "SP"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Register now!",
-        link: "http://eventick.com.br"
+        text: "INSCREVA-SE AGORA!",
+        link: "http://eventick.com.br/devfest2013"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
-    },
+    // forkButton: {
+    //     repository: "https://github.com/braziljs/conf-boilerplate"
+    // },
 
     // Site info
     site: {
@@ -52,13 +52,13 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
-      partners: "Partners",
-      contact: "Contact"
+      about: "Sobre",
+      location: "Local",
+      speakers: "Palestrantes",
+      schedule: "Agenda",
+      sponsors: "Patrocinadores",
+      partners: "Parceria"
+      // contact: "Contact"
     },
 
     // The entire schedule

@@ -13,7 +13,7 @@ module.exports = {
       // If your event is free, just comment this line
       price: "R$ 70,00",
       venue: "Hotel Branston, São Paulo - SP",
-      address: "Rua Augusta 1272",
+      address: "Rua Augusta, 1272",
       city: "São Paulo",
       state: "SP"
     },
@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "INSCREVA-SE AGORA!",
-        link: "http://eventick.com.br/devfest2013"
+        link: "http://credencial.imasters.com.br/devfest-sao-paulo-2013/"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
@@ -46,7 +46,8 @@ module.exports = {
       'speakers',
       'schedule',
       'sponsors',
-      'partners'
+      'partners',
+      'inscricao'
       // 'contact'
     ],
 
@@ -57,7 +58,8 @@ module.exports = {
       speakers: "Palestrantes",
       schedule: "Agenda",
       sponsors: "Patrocinadores",
-      partners: "Parceria"
+      partners: "Parceria",
+      inscricao: "INSCREVA-SE"
       // contact: "Contact"
     },
 

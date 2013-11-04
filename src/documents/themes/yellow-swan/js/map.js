@@ -1,7 +1,7 @@
 var geocoder,
     map,
     google,
-    icon = 'img/marker-default.png';
+    icon = 'themes/yellow-swan/img/marker-default.png';
 
 function initialize() {
     'use strict';
@@ -40,11 +40,13 @@ $(document).ready(function () {
 
                 map.setCenter(results[0].geometry.location);
 
-                new google.maps.Marker({
+                window.marker = new google.maps.Marker({
                     map: map,
                     position: results[0].geometry.location,
                     icon: icon
                 });
+
+
             } else {
                 if (console) {
                     console.log('Google Maps was not loaded: ', status);

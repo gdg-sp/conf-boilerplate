@@ -58,7 +58,7 @@ module.exports = {
       speakers: "Palestrantes",
       schedule: "Agenda",
       sponsors: "Patrocinadores",
-      partners: "Parceria",
+      partners: "Apoiadores",
       inscricao: "INSCREVA-SE"
       // contact: "Contact"
     },
@@ -66,125 +66,182 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Check-in / Breakfast",
-        time: "9h00"
+        name: "void setup() { \n\tcredenciamento();  \n\twelcome_coffee(); \n}",
+        time: "8h00"
       },
+
       {
-        name: "Linus Torvalds",
+        name: "Keynote",
+        time: "9h30",
+      },
+
+      {
+        name: "NOME",
+        company: "EMPRESA",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
-        link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
-        },
+        //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "Digging into a Linux Kernel",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "10h00"
+          title: "TITULO APRESENTACAO",
+          description: "",
+          time: "10h40"
         }
       },
       {
-        name: "Bill Gates",
+        name: "NOME",
+        company: "EMPRESA",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Microsoft",
-        link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
-        },
+        //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "Introducing Windows 12",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "11h00"
+          title: "Workshop Web",
+          description: "",
+          time: "10h40"
         }
       },
       {
-        name: "Lunch",
-        time: "12h00"
-      },
-      {
-        name: "Chuck Norris",
+        name: "NOME",
+        company: "EMPRESA",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
-        link: {
-          href: "http://twitter.com/littlechuck",
-          text: "@littlechuck"
-        },
+        //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "How to kill a elephant with one finger",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "13h00"
+          title: "TITULO APRESENTACAO",
+          description: "",
+          time: "11h40"
+        }
+      },
+
+      {
+        name: "void interval(){\n\talmoco();\n}",
+        time: "12h40"
+      },
+
+
+      {
+        name: "NOME",
+        company: "EMPRESA",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        //, bio: "", link: { href: "#", text: "" },
+        presentation: {
+          title: "TITULO APRESENTACAO",
+          description: "",
+          time: "14h30"
         }
       },
       {
-        name: "Steve Jobs",
+        name: "NOME",
+        company: "EMPRESA",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://github.com/stevie",
-          text: "@stevie"
-        },
+        //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "14h00"
+          title: "Workshop Mobile",
+          description: "",
+          time: "14h30"
         }
       },
       {
-        name: "Coffee-break",
-        time: "15h00"
-      },
-      {
-        name: "Mark Zuckerberg",
+        name: "NOME",
+        company: "EMPRESA",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Facebook",
-        link: {
-          href: "http://twitter.com/zuck",
-          text: "@zuck"
-        },
+        //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "Revealing Facebook Secrets",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "16h00"
+          title: "TITULO APRESENTACAO",
+          description: "",
+          time: "15h30"
         }
       },
+
       {
-        name: "Steve Wozniak",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://twitter.com/woz",
-          text: "@woz"
-        },
-        presentation: {
-          title: "Why do I prefer Android over iPhone",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "17h00"
-        }
+        name: "void interval(){\n\tnetworking();\n\tcafe();\n}",
+        time: "16h30"
+      },
+
+
+      {
+        name: "Keynote",
+        time: "17h30",
+      },
+
+      {
+        name: "void stop() { \n\tencerramento(); \n\tsorteios(); \n}",
+        time: "18h00",
       }
+
+
+
+
+
     ],
 
     // List of Sponsors
-    sponsors: [
-      {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
-      }
-    ],
+    sponsors: {
+      partner: [
+        //intel
+        {
+          name: "Intel",
+          logo: "themes/yellow-swan/img/patrocinadores/patrocinio-partner-intel.png",
+          url: "#"
+        }        
+      ],
+      diamond: [
+        //google
+        {
+          name: "Google",
+          logo: "themes/yellow-swan/img/patrocinadores/patrocinio-diamond-google.png",
+          url: "#"
+        },
+        //on
+        {
+          name: "On Interactive",
+          logo: "themes/yellow-swan/img/patrocinadores/patrocinio-diamond-on.png",
+          url: "#"
+        }
+      ],
+      gold: [
+        //digitalbox
+        {
+          name: "DigitalBox",
+          logo: "themes/yellow-swan/img/patrocinadores/patrocinio-gold-digitalbox.png",
+          url: "#"
+        }
+      ],
+      silver: [
+        //sendgrid
+        {
+          name: "SendGrid",
+          logo: "themes/yellow-swan/img/patrocinadores/patrocinio-silver-sendgrid.png",
+          url: "#"
+        }
+      ]
+    },
 
     // List of Partners
     partners: [
+
+      //imasters
       {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        name: "iMasters",
+        logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-imasters.png",
+        url: "#"
+      },
+      //novatec
+      {
+        name: "Novatec",
+        logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-novatec.png",
+        url: "#"
+      },
+      //casa do codigo
+      {
+        name: "Casa do Código",
+        logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-casa-do-codigo.png",
+        url: "#"
+      },
+      //caelum
+      {
+        name: "Caelum",
+        logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-caelum.jpg",
+        url: "#"
       }
+
+
     ],
 
     // Theme path

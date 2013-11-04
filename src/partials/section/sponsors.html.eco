@@ -1,16 +1,80 @@
 <h2 class="section-title"><%= @labels['sponsors'] %></h2>
-<ul class="sponsors-list">
 
-<% for sponsor in @sponsors: %>
+
+
+
+<div style="">
+
+<h3 class="section-title">Partner</h3>
+<ul class="sponsors-list partner">
+<% for sponsor in @sponsors.partner: %>
+
   <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
     <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url">
       <img src="<%= sponsor.logo %>" alt="<%= sponsor.name %>" class="photo" itemprop="image">
     </a>
   </li>
+
+
 <% end %>
-  <li class="sponsor-item">
-    <a class="sponsor-logo sponsor-link sponsor-call" href="#">
-    	<img src="<%= @getTheme() %>/img/your-logo.jpg" alt="your logo" class="photo">
+</ul>
+
+</div>
+
+<div style="float: left;">
+
+<h3 class="section-title">Diamond</h3>
+<ul class="sponsors-list diamond">
+<% for sponsor in @sponsors.diamond: %>
+
+  <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
+    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url">
+      <img src="<%= sponsor.logo %>" alt="<%= sponsor.name %>" class="photo" itemprop="image">
     </a>
   </li>
+
+
+<% end %>
 </ul>
+
+</div>
+
+
+<div style="float: left;">
+
+
+<h3 class="section-title">Gold</h3>
+<ul class="sponsors-list gold">
+<% for sponsor in @sponsors.gold: %>
+
+  <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
+    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url">
+      <img src="<%= sponsor.logo %>" alt="<%= sponsor.name %>" class="photo" itemprop="image">
+    </a>
+  </li>
+
+
+<% end %>
+</ul>
+
+
+</div>
+<div>
+
+
+<h3 class="section-title">Silver</h3>
+<ul class="sponsors-list silver">
+<% for sponsor in @sponsors.silver: %>
+
+  <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
+    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url">
+      <img src="<%= sponsor.logo %>" alt="<%= sponsor.name %>" class="photo" itemprop="image">
+    </a>
+  </li>
+
+<% end %>
+</ul>
+
+</div>
+
+

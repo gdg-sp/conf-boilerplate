@@ -10,7 +10,7 @@
 <% for sponsor in @sponsors.partner: %>
 
   <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
-    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url">
+    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url" target="_blank">
       <img src="<%= sponsor.logo %>" alt="<%= sponsor.name %>" class="photo" itemprop="image">
     </a>
   </li>
@@ -28,7 +28,7 @@
 <% for sponsor in @sponsors.diamond: %>
 
   <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
-    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url">
+    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url" target="_blank">
       <img src="<%= sponsor.logo %>" alt="<%= sponsor.name %>" class="photo" itemprop="image">
     </a>
   </li>
@@ -48,7 +48,7 @@
 <% for sponsor in @sponsors.gold: %>
 
   <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
-    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url">
+    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url" target="_blank">
       <img src="<%= sponsor.logo %>" alt="<%= sponsor.name %>" class="photo" itemprop="image">
     </a>
   </li>
@@ -67,7 +67,7 @@
 <% for sponsor in @sponsors.silver: %>
 
   <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
-    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url">
+    <a href="<%= sponsor.url %>" class="sponsor-logo sponsor-link" itemprop="url" target="_blank">
       <img src="<%= sponsor.logo %>" alt="<%= sponsor.name %>" class="photo" itemprop="image">
     </a>
   </li>

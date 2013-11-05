@@ -87,7 +87,7 @@ module.exports = {
         }
       },
       {
-        name: "",
+        name: "A confirmar",
         company: "",
         photo: "themes/yellow-swan/img/palestrantes/default.jpg",
         //, bio: "", link: { href: "#", text: "" },
@@ -148,7 +148,7 @@ module.exports = {
         }
       },
       {
-        name: "George",
+        name: "George Silva",
         company: "Intel",
         photo: "themes/yellow-swan/img/palestrantes/default.jpg",
         // bio: "", link: { href: "#", text: "" },
@@ -192,6 +192,17 @@ module.exports = {
         presentation: {
           title: "Manutenção e Refatoração de CSS",
           description: "A manutenção de CSS em projetos de grande porte é um problema que pode afligir qualquer equipe, atrapalhar a evolução do seu software e tirar o sono dos desenvolvedores. Esta palestra é sobre como evoluímos a forma em que escrevemos CSS na Plataformatec para evitar os problemas clássicos de projetos de longa data: código complicado e desnecessário, classes que ninguém sabe onde estão sendo usadas e complicações ao reaproveitar estilos entre partes diferentes do seu projeto.",
+          time: "17h00"
+        }
+      },
+      {
+        name: "A confirmar",
+        company: "",
+        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        //, bio: "", link: { href: "#", text: "" },
+        presentation: {
+          title: "",
+          description: "",
           time: "17h00"
         }
       },

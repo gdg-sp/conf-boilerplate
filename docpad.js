@@ -79,7 +79,7 @@ module.exports = {
         name: "Anderson Leite",
         company: "R/GA",
         photo: "themes/yellow-swan/img/palestrantes/anderson_leite.jpg",
-        bio: "", link: { href: "https://twitter.com/anderson_leite", text: "Twitter" },
+        bio: "", link: { href: "https://twitter.com/anderson_leite", text: "@anderson_leite" },
         presentation: {
           title: "Desenvolvimento de jogos em Android",
           description: "",
@@ -101,7 +101,7 @@ module.exports = {
         name: "Marcelo Liberato",
         company: "ON Interactive",
         photo: "themes/yellow-swan/img/palestrantes/marcelo_liberato.jpg",
-        bio: "", link: { href: "https://twitter.com/mliberato", text: "Twitter" },
+        bio: "", link: { href: "https://twitter.com/mliberato", text: "@mliberato" },
         presentation: {
           title: "Mobile Backend Starter: Backend fácil e escalável para Android e iOS",
           description: "Mobile Backend Starter é um provider de BaaS (Backend as a service), que fornece autenticação/autorização, push notifications, armazenamento em cloud, client library para Android e iOS. Por rodar no AppEngine, podemos contar com alta disponibilidade e escalabilidade para qualquer tipo de aplicação. Nesta palestra vamos apresentar a plataforma e mostrar passo a passo como criar um aplicativo, sem escrever nenhuma linha de código de backend.",
@@ -140,7 +140,7 @@ module.exports = {
         name: "Bruno Germano",
         company: "ON Interactive",
         photo: "themes/yellow-swan/img/palestrantes/bruno_germano.jpg",
-        bio: "", link: { href: "https://twitter.com/egermano", text: "Twitter" },
+        bio: "", link: { href: "https://twitter.com/egermano", text: "@egermano" },
         presentation: {
           title: "Agilizando a criação de aplicações Angular com Yeoman",
           description: "",

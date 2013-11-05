@@ -1,8 +1,6 @@
 <h2 class="section-title"><%= @labels['sponsors'] %></h2>
 
 
-
-
 <div style="">
 
 <h3 class="section-title">Partner</h3>
@@ -78,3 +76,7 @@
 </div>
 
 
+
+
+
+    <%- @partial("section/partners.html.eco", @) %>

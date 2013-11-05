@@ -46,8 +46,8 @@ module.exports = {
       'speakers',
       'schedule',
       'sponsors',
-      'partners',
-      'inscricao'
+      //'partners',
+      //'inscricao'
       // 'contact'
     ],
 
@@ -57,9 +57,9 @@ module.exports = {
       location: "Local",
       speakers: "Palestrantes",
       schedule: "Agenda",
-      sponsors: "Patrocinadores",
+      sponsors: "Patrocinadores & Apoiadores",
       partners: "Apoiadores",
-      inscricao: "INSCREVA-SE"
+      //inscricao: "INSCREVA-SE"
       // contact: "Contact"
     },
 

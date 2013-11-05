@@ -33,7 +33,7 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
+      url: "http://www.devfest.com.br/2013/",
       googleanalytics: "UA-36017802-1"
     },
 

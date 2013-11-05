@@ -13,7 +13,7 @@ module.exports = {
       // If your event is free, just comment this line
       price: "R$ 70,00",
       venue: "Hotel Branston, São Paulo - SP",
-      address: "Rua Augusta, 1272",
+      address: "Rua Martins Fontes, 330",
       city: "São Paulo",
       state: "SP"
     },

@@ -268,7 +268,7 @@ module.exports = {
       //caelum
       {
         name: "Caelum",
-        logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-caelum.jpg",
+        logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-caelum.png",
         url: "#"
       }
 

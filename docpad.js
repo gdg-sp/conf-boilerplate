@@ -11,7 +11,7 @@ module.exports = {
       description: "",
       date: "23 de Novembro de 2013",
       // If your event is free, just comment this line
-      price: "R$ 70,00",
+      price: "R$ 76,00",
       venue: "Hotel Branston, São Paulo - SP",
       address: "Rua Martins Fontes, 330",
       city: "São Paulo",
@@ -76,20 +76,20 @@ module.exports = {
       },
 
       {
-        name: "NOME",
-        company: "EMPRESA",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        //, bio: "", link: { href: "#", text: "" },
+        name: "Anderson Leite",
+        company: "R/GA",
+        photo: "themes/yellow-swan/img/palestrantes/anderson_leite.jpg",
+        bio: "", link: { href: "https://twitter.com/anderson_leite", text: "Twitter" },
         presentation: {
-          title: "TITULO APRESENTACAO",
+          title: "Desenvolvimento de jogos em Android",
           description: "",
           time: "10h40"
         }
       },
       {
-        name: "NOME",
-        company: "EMPRESA",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        name: "",
+        company: "",
+        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
           title: "Workshop Web",
@@ -98,17 +98,27 @@ module.exports = {
         }
       },
       {
-        name: "NOME",
-        company: "EMPRESA",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        //, bio: "", link: { href: "#", text: "" },
+        name: "Marcelo Liberato",
+        company: "ON Interactive",
+        photo: "themes/yellow-swan/img/palestrantes/marcelo_liberato.jpg",
+        bio: "", link: { href: "https://twitter.com/mliberato", text: "Twitter" },
         presentation: {
-          title: "TITULO APRESENTACAO",
+          title: "Otimize o desenvolvimento com Mobile Backend Starter",
           description: "",
           time: "11h40"
         }
       },
-
+      {
+        name: "Renzo Nuccitelli",
+        company: "QMagico",
+        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        //, bio: "", link: { href: "#", text: "" },
+        presentation: {
+          title: "App Engine",
+          description: "",
+          time: "11h40"
+        }
+      },
       {
         name: "void interval(){\n\talmoco();\n}",
         time: "12h40"
@@ -116,21 +126,32 @@ module.exports = {
 
 
       {
-        name: "NOME",
-        company: "EMPRESA",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        name: "Jean Silva",
+        company: "DigitalBox",
+        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "TITULO APRESENTACAO",
+          title: "Integrando Google Anlytics com Unity 3D",
           description: "",
           time: "14h30"
         }
       },
       {
-        name: "NOME",
-        company: "EMPRESA",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        //, bio: "", link: { href: "#", text: "" },
+        name: "Bruno Germano",
+        company: "ON Interactive",
+        photo: "themes/yellow-swan/img/palestrantes/bruno_germano.jpg",
+        bio: "", link: { href: "https://twitter.com/egermano", text: "Twitter" },
+        presentation: {
+          title: "Agilizando a criação de aplicações Angular com Yeoman",
+          description: "",
+          time: "14h30"
+        }
+      },
+      {
+        name: "George",
+        company: "Intel",
+        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        // bio: "", link: { href: "#", text: "" },
         presentation: {
           title: "Workshop Mobile",
           description: "",
@@ -138,36 +159,46 @@ module.exports = {
         }
       },
       {
-        name: "NOME",
-        company: "EMPRESA",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        name: "Ubiratan Soares",
+        company: "",
+        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "TITULO APRESENTACAO",
+          title: "Dicas para interfaces performáticas no seu app Android",
           description: "",
           time: "15h30"
         }
       },
-
+      {
+        name: "William Lepinski",
+        company: "R/GA",
+        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        //, bio: "", link: { href: "#", text: "" },
+        presentation: {
+          title: "Angular JS",
+          description: "",
+          time: "15h30"
+        }
+      },
       {
         name: "void interval(){\n\tnetworking();\n\tcafe();\n}",
         time: "16h30"
       },
-
-
       {
-        name: "Keynote",
-        time: "17h30",
+        name: "Lucas Mazza",
+        company: "Plataformatec",
+        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        //, bio: "", link: { href: "#", text: "" },
+        presentation: {
+          title: "Manutenção e Refatoração de CSS",
+          description: "A manutenção de CSS em projetos de grande porte é um problema que pode afligir qualquer equipe, atrapalhar a evolução do seu software e tirar o sono dos desenvolvedores. Esta palestra é sobre como evoluímos a forma em que escrevemos CSS na Plataformatec para evitar os problemas clássicos de projetos de longa data: código complicado e desnecessário, classes que ninguém sabe onde estão sendo usadas e complicações ao reaproveitar estilos entre partes diferentes do seu projeto.",
+          time: "17h00"
+        }
       },
-
       {
-        name: "void stop() { \n\tencerramento(); \n\tsorteios(); \n}",
-        time: "18h00",
+        name: "void stop() { \n\tencerramento(); \n\tsorteios();\n}",
+        time: "18h",
       }
-
-
-
-
 
     ],
 

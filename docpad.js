@@ -209,7 +209,7 @@ module.exports = {
         {
           name: "Intel",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-partner-intel.png",
-          url: "#"
+          url: "http://www.intel.com/"
         }        
       ],
       diamond: [
@@ -217,13 +217,13 @@ module.exports = {
         {
           name: "Google",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-diamond-google.png",
-          url: "#"
+          url: "http://www.google.com/"
         },
         //on
         {
           name: "On Interactive",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-diamond-on.png",
-          url: "#"
+          url: "http://www.oninteractive.com.br/"
         }
       ],
       gold: [
@@ -231,7 +231,7 @@ module.exports = {
         {
           name: "DigitalBox",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-gold-digitalbox.png",
-          url: "#"
+          url: "http://www.digitalbox.cc/"
         }
       ],
       silver: [
@@ -239,7 +239,7 @@ module.exports = {
         {
           name: "SendGrid",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-silver-sendgrid.png",
-          url: "#"
+          url: "http://www.sendgrid.com/"
         }
       ]
     },
@@ -251,25 +251,25 @@ module.exports = {
       {
         name: "iMasters",
         logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-imasters.png",
-        url: "#"
+        url: "http://www.imasters.com.br"
       },
       //novatec
       {
         name: "Novatec",
         logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-novatec.png",
-        url: "#"
+        url: "http://www.novatec.com.br/"
       },
       //casa do codigo
       {
         name: "Casa do Código",
         logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-casa-do-codigo.png",
-        url: "#"
+        url: "http://www.casadocodigo.com.br/"
       },
       //caelum
       {
         name: "Caelum",
         logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-caelum.png",
-        url: "#"
+        url: "http://www.caelum.com.br/"
       }
 
 

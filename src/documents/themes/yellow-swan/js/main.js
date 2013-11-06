@@ -32,6 +32,10 @@
 
 			$(function () {
 				that.animateScroll();
+
+				setTimeout(function()	{
+					$('.social').css('display', 'inline-block');
+				}, 1000);
 			});
 		}
 	}).init();

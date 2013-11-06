@@ -6,6 +6,12 @@
         <a href="#<%= section %>" title="<%= @labels[section] %>" class="nav-link"><%= @labels[section] %></a>
       </li>
     <% end %>
+    <li class="nav-item social social-facebook">
+		<div class="fb-like" data-href="http://www.devfest.com.br/2013/" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="true" data-send="false"></div>
+    </li>
+    <li class="nav-item social social-twitter">
+		<a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt" data-url="http://www.devfest.com.br/2013/" data-hashtags="devfestsp" data-text="O DevFest São Paulo, é um evento mundial realizado pela comunidade de desenvolvedores Google, participe!">Tweetar</a>
+    </li>
   </ul>
 </nav>
 

@@ -12,7 +12,7 @@ module.exports = {
       date: "23 de Novembro de 2013",
       // If your event is free, just comment this line
       price: "R$ 76,00",
-      venue: "Hotel Branston, São Paulo - SP",
+      venue: "Hotel Braston, São Paulo - SP",
       address: "Rua Martins Fontes, 330",
       city: "São Paulo",
       state: "SP"
@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "INSCREVA-SE AGORA!",
-        link: "http://credencial.imasters.com.br/devfest-sao-paulo-2013/"
+        link: "https://credencial.imasters.com.br/devfest-sao-paulo-2013/"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property

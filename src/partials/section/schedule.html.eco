@@ -1,5 +1,6 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
 <p>Configura a programação do DevFest!</p>
+
 <div class="schedule-tbl">
   <table>
     <thead>

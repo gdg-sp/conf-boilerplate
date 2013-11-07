@@ -82,7 +82,7 @@ module.exports = {
         bio: "", link: { href: "https://twitter.com/anderson_leite", text: "@anderson_leite" },
         presentation: {
           title: "Desenvolvimento de jogos em Android",
-          description: "",
+          description: "Uma visão do cenário de Jogos para Smarthphones no Brasil seguido de uma parte mais técnica pra quem quer saber que passos seguir para desenvolver seu primeiro game.",
           time: "10h40"
         }
       },
@@ -128,11 +128,11 @@ module.exports = {
       {
         name: "Jean Silva",
         company: "DigitalBox",
-        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        photo: "themes/yellow-swan/img/palestrantes/jean_silva.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
           title: "Integrando Google Anlytics com Unity 3D",
-          description: "",
+          description: "Analisar o engajamento dos jogadores em games é muito importante, principalmente para saber onde o mesmo consegue proporcionar diversão e desafio, com isso em mente a palestra abordará a integração do Google Analytcis com em jogos para Android feitos com a engine Unity3D, além de mostrar melhores formas de tirar métricas através de eventos in-game.",
           time: "14h30"
         }
       },
@@ -175,8 +175,8 @@ module.exports = {
         photo: "themes/yellow-swan/img/palestrantes/default.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "Angular JS",
-          description: "",
+          title: "Prototipando aplicações utilizando Parse.com e AngularJS",
+          description: "Você teve uma idéia legal para uma aplicação e quer testar seu conceito rapidamente sem precisar se preocupar com o backend, infraestrutura e afins? O Parse.com é um serviço de backend (Backend as a service) que facilita o processo de criação de um único código que pode ser aproveitado por diversos tipos de frontend. Nesta palestra iremos ver como é simples criar uma aplicação que utiliza os serviços do Parse.com e o poder do AngularJS na criação de protótipos funcionais.",
           time: "15h30"
         }
       },

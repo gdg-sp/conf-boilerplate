@@ -142,8 +142,8 @@ module.exports = {
         photo: "themes/yellow-swan/img/palestrantes/bruno_germano.jpg",
         bio: "", link: { href: "https://twitter.com/egermano", text: "@egermano" },
         presentation: {
-          title: "Agilizando a criação de aplicações Angular com Yeoman",
-          description: "",
+          title: "Agilizando a criação e desenvolvimento de aplicações AngularJS com Yeoman",
+          description: "O AngularJS tem uma série de peculiaridades e características eficientes e poderosas. Com a ajuda de algumas ferramentas como o Yeoman, Grunt e Bower eles tornam o processo de desenvolvimento incrivelmente rápido.",
           time: "14h30"
         }
       },

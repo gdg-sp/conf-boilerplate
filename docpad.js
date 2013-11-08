@@ -281,8 +281,13 @@ module.exports = {
         name: "Caelum",
         logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-caelum.png",
         url: "http://www.caelum.com.br/"
+      },
+      //globalcode
+      {
+        name: "Globalcode",
+        logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-globalcode.png",
+        url: "http://www.globalcode.com.br/"
       }
-
 
     ],
 

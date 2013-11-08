@@ -172,7 +172,7 @@ module.exports = {
       {
         name: "William Lepinski",
         company: "R/GA",
-        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        photo: "themes/yellow-swan/img/palestrantes/william_lepinski.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
           title: "Prototipando aplicações utilizando Parse.com e AngularJS",

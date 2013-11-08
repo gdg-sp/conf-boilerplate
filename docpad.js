@@ -220,7 +220,7 @@ module.exports = {
         {
           name: "Intel",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-partner-intel.png",
-          url: "http://www.intel.com/"
+          url: "http://intel.ly/HLEuL0"
         }        
       ],
       diamond: [

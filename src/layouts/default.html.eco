@@ -15,7 +15,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="<%= @site.url %>">
   <meta property="og:title" content="<%= @conf.name %>">
-  <meta property="og:description" content="<%= @conf.description %>">
+  <meta property="og:description" content="O DevFest São Paulo, é um evento mundial realizado pela comunidade de desenvolvedores Google, participe! http://www.devfest.com.br/2013/ #devfestsp">
   <meta property="og:image" content="<%= @site.url %><%= @getTheme() %>/img/badge.jpg">
   <!-- / FACEBOOK -->
 

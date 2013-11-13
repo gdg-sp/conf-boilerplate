@@ -118,6 +118,7 @@ module.exports = {
           time: "11h40"
         }
       },
+      
       {
         name: "void interval(){\n\talmoco();\n}",
         time: "12h40"
@@ -195,19 +196,20 @@ module.exports = {
         }
       },
       {
-        name: "A confirmar",
-        company: "",
-        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
-        //, bio: "", link: { href: "#", text: "" },
+        name: "Lúcio Maciel",
+        company: "Sappos",
+        photo: "themes/yellow-swan/img/palestrantes/luciofm.jpg",
+        bio: "Desenvolvedor Android na SAPPOS (https://sappos.com.br/), além de ser o responsável por diversos aplicativos Android, como o Muambator, Mobo, Noite Hoje, Turismo Bento, Guia Gourmet, Zynk, Clique Alimentos entre outros, instrutor de desenvolvimento Android, organizador da AndroidConf Brasil 2011 no Rio de Janeiro, e membro conhecido da comunidade AndroidBrasil-dev.\nAntes de entrar de cabeça no mundo da mobilidade foi desenvolvedor C/C++ para Linux e Unixes em geral por mais de 10 anos.",
+        //link: { href: "#", text: "" },
         presentation: {
-          title: "",
-          description: "",
-          time: "17h00"
+          title: "ANIME-SE - Encante e Divirta",
+          description: "Como pequenas animações podem encantar e divertir seus usuários, melhorando a qualidade de seus aplicativos.",
+          time: "18h00"
         }
       },
       {
         name: "void stop() { \n\tencerramento(); \n\tsorteios();\n}",
-        time: "18h",
+        time: "19h00",
       }
 
     ],

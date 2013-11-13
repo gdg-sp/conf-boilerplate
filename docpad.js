@@ -221,7 +221,7 @@ module.exports = {
           name: "Intel",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-partner-intel.png",
           url: "http://intel.ly/HLEuL0"
-        }        
+        }
       ],
       diamond: [
         //google
@@ -235,6 +235,12 @@ module.exports = {
           name: "On Interactive",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-diamond-on.png",
           url: "http://www.oninteractive.com.br/"
+        },
+        //locaweb
+        {
+          name: "Locaweb",
+          logo: "themes/yellow-swan/img/patrocinadores/patrocinio-diamond-locaweb.png",
+          url: "http://www.locaweb.com.br/"
         }
       ],
       gold: [

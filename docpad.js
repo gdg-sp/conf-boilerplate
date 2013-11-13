@@ -187,7 +187,7 @@ module.exports = {
       {
         name: "Lucas Mazza",
         company: "Plataformatec",
-        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        photo: "themes/yellow-swan/img/palestrantes/lucas_massa.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
           title: "Manutenção e Refatoração de CSS",

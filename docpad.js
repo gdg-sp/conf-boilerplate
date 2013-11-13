@@ -10,7 +10,6 @@ module.exports = {
       name: "DevFest São Paulo",
       description: "",
       date: "23 de Novembro de 2013",
-      // If your event is free, just comment this line
       price: "R$ 76,00",
       venue: "Hotel Braston, São Paulo - SP",
       address: "Rua Martins Fontes, 330",

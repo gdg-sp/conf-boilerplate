@@ -204,12 +204,20 @@ module.exports = {
         presentation: {
           title: "ANIME-SE - Encante e Divirta",
           description: "Como pequenas animações podem encantar e divertir seus usuários, melhorando a qualidade de seus aplicativos.",
-          time: "18h00"
+          time: "17h00"
         }
       },
       {
         name: "void stop() { \n\tencerramento(); \n\tsorteios();\n}",
+        time: "18h00",
+      },
+      {
+        name: "after party \o/ ",
         time: "19h00",
+      },
+      {
+        name: "FIM!\nNos vemos no DevFest São Paulo 2014 ",
+        time: "22h00",
       }
 
     ],

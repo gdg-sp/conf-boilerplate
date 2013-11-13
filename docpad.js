@@ -160,7 +160,7 @@ module.exports = {
       {
         name: "Ubiratan Soares",
         company: "",
-        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        photo: "themes/yellow-swan/img/palestrantes/ubiratan_soares.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
           title: "Dicas para interfaces performáticas no seu app Android",

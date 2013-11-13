@@ -110,7 +110,7 @@ module.exports = {
       {
         name: "Renzo Nuccitelli",
         company: "QMagico",
-        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        photo: "themes/yellow-swan/img/palestrantes/renzo_nuccitelli.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
           title: "App Engine",

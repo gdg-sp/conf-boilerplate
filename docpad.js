@@ -164,10 +164,11 @@ module.exports = {
         name: "Ubiratan Soares",
         company: "",
         photo: "themes/yellow-swan/img/palestrantes/ubiratan_soares.jpg",
-        //, bio: "", link: { href: "#", text: "" },
+        bio: "Formado em Ciências da Computação pela Universidade de São Paulo, brincando com mobile desde 2010. É entusiasta e desenvolvedor para Android por opção, embora também tenha familiriade com iOS. Atualmente colabora com a Start Apps, em São Paulo. Palestrante frequente em eventos para a comunidade técnica - como os Meetups do Google Developers Group (GDG) em São Paulo, TDC, DevFest e outros - pode ser encontrado em www.ubiratansoares.com.br.", 
+        link: { href: "http://google.com/+UbiratanSoares", text: "+UbiratanSoares" },
         presentation: {
-          title: "Dicas para interfaces performáticas no seu app Android",
-          description: "",
+          title: "Aumentando a responsividade da interface do seu app Android",
+          description: "Nessa palestra, veremos uma série de dicas que irão contribuir para tornar a sua apliação Android mais fluída e responsiva! \nFalaremos sobre como minimizar o impacto do Garbage Collector na sua aplicação (e por que isso importa); veremos alguma dicas de multi-threading, além de como codificar para favorecer o desempenho. Também veremos macetes de como criar layouts que mais otimizados para apresentar a sua interface, sem prejudicar a estética da sua aplicação. ",
           time: "15h00"
         }
       },

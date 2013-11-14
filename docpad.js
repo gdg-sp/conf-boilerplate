@@ -70,7 +70,8 @@ module.exports = {
       },
 
       {
-        name: "Keynote",
+        name: "Abertura DevFest São Paulo 2013",
+        company: "GDG-SP",
         time: "9h30",
       },
 
@@ -82,7 +83,7 @@ module.exports = {
         presentation: {
           title: "Desenvolvimento de jogos em Android",
           description: "Uma visão do cenário de Jogos para Smarthphones no Brasil seguido de uma parte mais técnica pra quem quer saber que passos seguir para desenvolver seu primeiro game.",
-          time: "10h40"
+          time: "10h10"
         }
       },
       {
@@ -93,7 +94,7 @@ module.exports = {
         presentation: {
           title: "Workshop Web",
           description: "",
-          time: "10h40"
+          time: "10h10"
         }
       },
       {
@@ -104,7 +105,7 @@ module.exports = {
         presentation: {
           title: "Mobile Backend Starter: Backend fácil e escalável para Android e iOS",
           description: "Mobile Backend Starter é um provider de BaaS (Backend as a service), que fornece autenticação/autorização, push notifications, armazenamento em cloud, client library para Android e iOS. Por rodar no AppEngine, podemos contar com alta disponibilidade e escalabilidade para qualquer tipo de aplicação. Nesta palestra vamos apresentar a plataforma e mostrar passo a passo como criar um aplicativo, sem escrever nenhuma linha de código de backend.",
-          time: "11h40"
+          time: "11h10"
         }
       },
       {
@@ -115,13 +116,13 @@ module.exports = {
         presentation: {
           title: "App Engine",
           description: "",
-          time: "11h40"
+          time: "11h10"
         }
       },
       
       {
         name: "void interval(){\n\talmoco();\n}",
-        time: "12h40"
+        time: "12h10"
       },
 
 
@@ -133,7 +134,7 @@ module.exports = {
         presentation: {
           title: "Integrando Google Anlytics com Unity 3D",
           description: "Analisar o engajamento dos jogadores em games é muito importante, principalmente para saber onde o mesmo consegue proporcionar diversão e desafio, com isso em mente a palestra abordará a integração do Google Analytcis com em jogos para Android feitos com a engine Unity3D, além de mostrar melhores formas de tirar métricas através de eventos in-game.",
-          time: "14h30"
+          time: "14h00"
         }
       },
       {
@@ -144,18 +145,19 @@ module.exports = {
         presentation: {
           title: "Agilizando a criação e desenvolvimento de aplicações AngularJS com Yeoman",
           description: "O AngularJS tem uma série de peculiaridades e características eficientes e poderosas. Com a ajuda de algumas ferramentas como o Yeoman, Grunt e Bower eles tornam o processo de desenvolvimento incrivelmente rápido.",
-          time: "14h30"
+          time: "14h00"
         }
       },
       {
         name: "George Silva",
         company: "Intel",
-        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
-        // bio: "", link: { href: "#", text: "" },
+        photo: "https://pbs.twimg.com/profile_images/2164927746/formaturaSmallSquare.jpg",
+        bio: "Formado em Ciência da Computação e Engenharia Elétrica, é o Comunity Manager de Android da Intel do Brasil. Com experiência profissional na Coréia do Sul, participou do projeto LiMo Foundation desde 2008 pela LG Electronics. Em 2010, passou a desenvoler a plataforma Android para smartphones. Atualmente trabalha com o ecossistema de desenvolvimento de software brasileiro pela Intel Software. Áreas de interesse: software embarcado; programação distribuida e paralela.", 
+        link: { href: "https://twitter.com/ghsilva", text: "@ghsilva" },
         presentation: {
-          title: "Workshop Mobile",
-          description: "",
-          time: "14h30"
+          title: "AppLab Android Intel",
+          description: "O AppLab é um treinamento técnico teórico e prático dirigido pelo Community Manager de Android da Intel. Além de abordar os principais tópicos de desenvolvimento, depuração e performance, o AppLab explora as ferramentas e técnicas que os desenvolvedores Android precisam para tirar o máximo de performance de suas Apps e manter compatibilidade com o maior número possível de dispositivos no mercado.",
+          time: "14h00"
         }
       },
       {
@@ -166,7 +168,7 @@ module.exports = {
         presentation: {
           title: "Dicas para interfaces performáticas no seu app Android",
           description: "",
-          time: "15h30"
+          time: "15h00"
         }
       },
       {
@@ -177,12 +179,12 @@ module.exports = {
         presentation: {
           title: "Prototipando aplicações utilizando Parse.com e AngularJS",
           description: "Você teve uma idéia legal para uma aplicação e quer testar seu conceito rapidamente sem precisar se preocupar com o backend, infraestrutura e afins? O Parse.com é um serviço de backend (Backend as a service) que facilita o processo de criação de um único código que pode ser aproveitado por diversos tipos de frontend. Nesta palestra iremos ver como é simples criar uma aplicação que utiliza os serviços do Parse.com e o poder do AngularJS na criação de protótipos funcionais.",
-          time: "15h30"
+          time: "15h00"
         }
       },
       {
         name: "void interval(){\n\tnetworking();\n\tcafe();\n}",
-        time: "16h30"
+        time: "16h00"
       },
       {
         name: "Lucas Mazza",
@@ -192,7 +194,7 @@ module.exports = {
         presentation: {
           title: "Manutenção e Refatoração de CSS",
           description: "A manutenção de CSS em projetos de grande porte é um problema que pode afligir qualquer equipe, atrapalhar a evolução do seu software e tirar o sono dos desenvolvedores. Esta palestra é sobre como evoluímos a forma em que escrevemos CSS na Plataformatec para evitar os problemas clássicos de projetos de longa data: código complicado e desnecessário, classes que ninguém sabe onde estão sendo usadas e complicações ao reaproveitar estilos entre partes diferentes do seu projeto.",
-          time: "17h00"
+          time: "16h30"
         }
       },
       {
@@ -204,15 +206,15 @@ module.exports = {
         presentation: {
           title: "ANIME-SE - Encante e Divirta",
           description: "Como pequenas animações podem encantar e divertir seus usuários, melhorando a qualidade de seus aplicativos.",
-          time: "17h00"
+          time: "16h30"
         }
       },
       {
         name: "void stop() { \n\tencerramento(); \n\tsorteios();\n}",
-        time: "18h00",
+        time: "17h30",
       },
       {
-        name: "after party \o/ ",
+        name: "after party \\o/ ",
         time: "19h00",
       },
       {

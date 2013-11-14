@@ -305,6 +305,12 @@ module.exports = {
         name: "Globalcode",
         logo: "themes/yellow-swan/img/patrocinadores/patrocinio-support-globalcode.png",
         url: "http://www.globalcode.com.br/"
+      },
+      //appies
+      {
+        name: "Appies_",
+        logo:"themes/yellow-swan/img/patrocinadores/patrocinio-support-appies.jpeg",
+        url: "www.appies.co"
       }
 
     ],

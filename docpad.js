@@ -79,7 +79,8 @@ module.exports = {
         name: "Anderson Leite",
         company: "R/GA",
         photo: "themes/yellow-swan/img/palestrantes/anderson_leite.jpg",
-        bio: "", link: { href: "https://twitter.com/anderson_leite", text: "@anderson_leite" },
+        bio: "Trabalha com Marketing Digital na R/GA onde é Tech Leader. Desenvolve plataformas web e mobile e é autor do livro Desenvolvimento de Jogos para Android pela Casa do Código.",
+        link: { href: "https://twitter.com/anderson_leite", text: "@anderson_leite" },
         presentation: {
           title: "Desenvolvimento de jogos em Android",
           description: "Uma visão do cenário de Jogos para Smarthphones no Brasil seguido de uma parte mais técnica pra quem quer saber que passos seguir para desenvolver seu primeiro game.",
@@ -176,7 +177,8 @@ module.exports = {
         name: "William Lepinski",
         company: "R/GA",
         photo: "themes/yellow-swan/img/palestrantes/william_lepinski.jpg",
-        //, bio: "", link: { href: "#", text: "" },
+        bio: "Formado em Design de Multimídia pelo Senac/SP. Trabalha com desenvolvimento frontend a aproximadamente 10 anos, atuando principalmente no desenvolvimento de aplicações web. \nAtualmente trabalha como Open Standard Developer pela R/GA São Paulo.",
+        link: { href: "#", text: "" },
         presentation: {
           title: "Prototipando aplicações utilizando Parse.com e AngularJS",
           description: "Você teve uma idéia legal para uma aplicação e quer testar seu conceito rapidamente sem precisar se preocupar com o backend, infraestrutura e afins? O Parse.com é um serviço de backend (Backend as a service) que facilita o processo de criação de um único código que pode ser aproveitado por diversos tipos de frontend. Nesta palestra iremos ver como é simples criar uma aplicação que utiliza os serviços do Parse.com e o poder do AngularJS na criação de protótipos funcionais.",
@@ -310,7 +312,7 @@ module.exports = {
       {
         name: "Appies_",
         logo:"themes/yellow-swan/img/patrocinadores/patrocinio-support-appies.jpeg",
-        url: "www.appies.co"
+        url: "http://www.appies.co"
       }
 
     ],

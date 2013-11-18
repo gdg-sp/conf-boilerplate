@@ -113,10 +113,11 @@ module.exports = {
         name: "Renzo Nuccitelli",
         company: "QMagico",
         photo: "themes/yellow-swan/img/palestrantes/renzo_nuccitelli.jpg",
-        //, bio: "", link: { href: "#", text: "" },
+        bio: "Engenheiro de Computação formado pelo ITA, Instrutor Python Pro, especialista em Google App Engine, usa Python desde 2009. Adora dar aulas, palestrar e participar de eventos da comunidade; conhecer novas pessoas e novas idéias.",
+        //link: { href: "#", text: "" },
         presentation: {
-          title: "App Engine",
-          description: "",
+          title: "Construindo um framework web no Google App Engine",
+          description: "Veja como utilizar o microframework Arquitetura para Web Zen (https://github.com/renzon/zenwarch) no Google App Engine. Essa biblioteca foi construida há 3 anos para o site www.digitaldovale.com.br, onde já trafegaram mais de 1 milhão de arquivos. Sem stress com deploy e servidores. Você programa e o Google escala!",
           time: "11h10"
         }
       },

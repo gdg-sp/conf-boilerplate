@@ -10,7 +10,7 @@ module.exports = {
       name: "DevFest São Paulo",
       description: "",
       date: "23 de Novembro de 2013",
-      price: "R$ 76,00",
+      price: "R$ 110,00",
       venue: "Hotel Braston, São Paulo - SP",
       address: "Rua Martins Fontes, 330",
       city: "São Paulo",

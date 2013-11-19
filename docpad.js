@@ -87,6 +87,20 @@ module.exports = {
           time: "10h10"
         }
       },
+
+      {
+        name: "Luís Leão",
+        company: "GDG São Paulo",
+        photo: "themes/yellow-swan/img/palestrantes/luis_leao.jpg",
+        bio: "Editor da Revista iMasters, coordenador do Google Developer Group São Paulo e membro do Garoa Hacker Clube. Atualmente se dedica a tornar ideias viáveis utilizando tecnologia.",
+        link: { href: "https://twitter.com/luisleao", text: "@luisleao" },
+        presentation: {
+          title: "Criando experiências interativas com a Web Speech API",
+          description: "Disponibilizada em 2013 como padrão aberto no W3C, a API de reconhecimento de voz traz grandes oportunidades para criação de experiências interativas e, ao mesmo tempo, possibilidade de aplicativos e sites web focados em acessibilidade. Aprenda como implementá-la e veja exemplos de uso e boas práticas da Web Speech API.",
+          time: "10h10"
+        }
+      },
+
       {
         name: "Breno Ferreira",
         company: "Lambda3",
@@ -135,7 +149,7 @@ module.exports = {
         photo: "themes/yellow-swan/img/palestrantes/jean_silva.jpg",
         //, bio: "", link: { href: "#", text: "" },
         presentation: {
-          title: "Integrando Google Anlytics com Unity 3D",
+          title: "Integrando Google Analytics com Unity 3D",
           description: "Analisar o engajamento dos jogadores em games é muito importante, principalmente para saber onde o mesmo consegue proporcionar diversão e desafio, com isso em mente a palestra abordará a integração do Google Analytcis com em jogos para Android feitos com a engine Unity3D, além de mostrar melhores formas de tirar métricas através de eventos in-game.",
           time: "14h00"
         }
@@ -159,7 +173,7 @@ module.exports = {
         link: { href: "https://twitter.com/ghsilva", text: "@ghsilva" },
         presentation: {
           title: "AppLab Android Intel",
-          description: "O AppLab é um treinamento técnico teórico e prático dirigido pelo Community Manager de Android da Intel. Além de abordar os principais tópicos de desenvolvimento, depuração e performance, o AppLab explora as ferramentas e técnicas que os desenvolvedores Android precisam para tirar o máximo de performance de suas Apps e manter compatibilidade com o maior número possível de dispositivos no mercado.",
+          description: "O AppLab é um treinamento técnico teórico e prático dirigido pelo Community Manager de Android da Intel. Além de abordar os principais tópicos de desenvolvimento, depuração e performance, o AppLab explora as ferramentas e técnicas que os desenvolvedores Android precisam para tirar o máximo de performance de suas Apps e manter compatibilidade com o maior número possível de dispositivos no mercado.\n\nPara esta atividade, inscreva-se em http://intel.ly/HMT9VB",
           time: "14h00"
         }
       },
@@ -192,17 +206,6 @@ module.exports = {
         time: "16h00"
       },
       {
-        name: "Lucas Mazza",
-        company: "Plataformatec",
-        photo: "themes/yellow-swan/img/palestrantes/lucas_massa.jpg",
-        //, bio: "", link: { href: "#", text: "" },
-        presentation: {
-          title: "Manutenção e Refatoração de CSS",
-          description: "A manutenção de CSS em projetos de grande porte é um problema que pode afligir qualquer equipe, atrapalhar a evolução do seu software e tirar o sono dos desenvolvedores. Esta palestra é sobre como evoluímos a forma em que escrevemos CSS na Plataformatec para evitar os problemas clássicos de projetos de longa data: código complicado e desnecessário, classes que ninguém sabe onde estão sendo usadas e complicações ao reaproveitar estilos entre partes diferentes do seu projeto.",
-          time: "16h30"
-        }
-      },
-      {
         name: "Lúcio Maciel",
         company: "Sappos",
         photo: "themes/yellow-swan/img/palestrantes/luciofm.jpg",
@@ -211,6 +214,17 @@ module.exports = {
         presentation: {
           title: "ANIME-SE - Encante e Divirta",
           description: "Como pequenas animações podem encantar e divertir seus usuários, melhorando a qualidade de seus aplicativos.",
+          time: "16h30"
+        }
+      },
+      {
+        name: "Lucas Mazza",
+        company: "Plataformatec",
+        photo: "themes/yellow-swan/img/palestrantes/lucas_massa.jpg",
+        //, bio: "", link: { href: "#", text: "" },
+        presentation: {
+          title: "Manutenção e Refatoração de CSS",
+          description: "A manutenção de CSS em projetos de grande porte é um problema que pode afligir qualquer equipe, atrapalhar a evolução do seu software e tirar o sono dos desenvolvedores. Esta palestra é sobre como evoluímos a forma em que escrevemos CSS na Plataformatec para evitar os problemas clássicos de projetos de longa data: código complicado e desnecessário, classes que ninguém sabe onde estão sendo usadas e complicações ao reaproveitar estilos entre partes diferentes do seu projeto.",
           time: "16h30"
         }
       },

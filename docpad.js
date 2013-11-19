@@ -88,13 +88,14 @@ module.exports = {
         }
       },
       {
-        name: "A confirmar",
-        company: "",
+        name: "Breno Ferreira",
+        company: "Lambda3",
         photo: "themes/yellow-swan/img/palestrantes/default.jpg",
-        //, bio: "", link: { href: "#", text: "" },
+        bio: "Formado pelo Instituto Superior de Tecnologia de Petrópolis - RJ, desenvolvedor de software na Lambda 3. Instrutor de cursos de tecnologia. Possui experiência principalmente em .NET e Javascript, mas também brinca de programar em outras linguagens, como Scala, Python e Ruby. Membro do da comunidade .NET Architects.", 
+        link: { href: "https://twitter.com/breno_ferreira", text: "@breno_ferreira" },
         presentation: {
-          title: "Workshop Web",
-          description: "",
+          title: "Backbone.js in Action",
+          description: "Aprenda com um Workshop 100% prático a utilizar o Backbone.js",
           time: "10h10"
         }
       },
@@ -218,7 +219,7 @@ module.exports = {
         time: "17h30",
       },
       {
-        name: "after party \\o/ ",
+        name: "After Party com Maestro Billy - Som na Caixa! \\o/ ",
         time: "19h00",
       },
       {

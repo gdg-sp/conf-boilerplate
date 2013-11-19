@@ -22,9 +22,6 @@
           <a href="<%= @callToAction.link %>" target="_blank" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
         <% end %>
 
-        <% if @conf.price: %>
-          <span class="price until">até 17/11/2013</span>
-        <% end %>
 
       </div>
     <% end %>

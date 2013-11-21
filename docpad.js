@@ -104,11 +104,11 @@ module.exports = {
       {
         name: "Breno Ferreira",
         company: "Lambda3",
-        photo: "themes/yellow-swan/img/palestrantes/default.jpg",
+        photo: "themes/yellow-swan/img/palestrantes/breno_ferreira.jpg",
         bio: "Formado pelo Instituto Superior de Tecnologia de Petrópolis - RJ, desenvolvedor de software na Lambda 3. Instrutor de cursos de tecnologia. Possui experiência principalmente em .NET e Javascript, mas também brinca de programar em outras linguagens, como Scala, Python e Ruby. Membro do da comunidade .NET Architects.", 
         link: { href: "https://twitter.com/breno_ferreira", text: "@breno_ferreira" },
         presentation: {
-          title: "Backbone.js in Action",
+          title: "Workshop Backbone.js in Action",
           description: "Aprenda com um Workshop 100% prático a utilizar o Backbone.js",
           time: "10h10"
         }
@@ -127,8 +127,8 @@ module.exports = {
       {
         name: "Renzo Nuccitelli",
         company: "QMagico",
-        photo: "themes/yellow-swan/img/palestrantes/renzo_nuccitelli.jpg",
-        bio: "Engenheiro de Computação formado pelo ITA, Instrutor Python Pro, especialista em Google App Engine, usa Python desde 2009. Adora dar aulas, palestrar e participar de eventos da comunidade; conhecer novas pessoas e novas idéias.",
+        photo: "themes/yellow-swan/img/palestrantes/renzo_nuccitelli.png",
+        bio: "Renzo Nuccitelli instrutor é Python Pro (www.python.pro.br), professor na Fatec de São José dos Campos e Colunista do site iMasters. Formado em Engenharia de Computação pelo ITA em 2008, adora experimentar novas idéias de organização e arquitetura de software em suas aplicações web, tendo produzido alguns projetos de código livre na área. Se interessa também por empreendedorismo, foi Diretor de Tecnologia da Ed Tech QMagico.",
         //link: { href: "#", text: "" },
         presentation: {
           title: "Construindo um framework web no Google App Engine",
@@ -253,13 +253,15 @@ module.exports = {
           url: "http://intel.ly/HLEuL0"
         }
       ],
-      diamond: [
+      gdgprogram:[
         //google
         {
           name: "Google",
           logo: "themes/yellow-swan/img/patrocinadores/patrocinio-diamond-google.png",
           url: "http://www.google.com/"
         },
+      ],
+      diamond: [
         //on
         {
           name: "On Interactive",

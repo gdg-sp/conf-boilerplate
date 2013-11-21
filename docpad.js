@@ -83,7 +83,7 @@ module.exports = {
         link: { href: "https://twitter.com/anderson_leite", text: "@anderson_leite" },
         presentation: {
           title: "Desenvolvimento de jogos em Android",
-          description: "Uma visão do cenário de Jogos para Smarthphones no Brasil seguido de uma parte mais técnica pra quem quer saber que passos seguir para desenvolver seu primeiro game.",
+          description: "Uma visão do cenário de jogos para smartphones no Brasil seguido de uma parte mais técnica pra quem quer saber que passos seguir para desenvolver seu primeiro game.",
           time: "10h10"
         }
       },
